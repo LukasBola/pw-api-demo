@@ -17,6 +17,8 @@ Playwright is a Node.js library to automate browsers (Chromium, Firefox, WebKit)
 
 For more details, see the official Playwright documentation: [https://playwright.dev/docs/intro](https://playwright.dev/docs/intro)
 
+Additional resources: [https://playwright.info/](https://playwright.info/)
+
 ## Getting Started
 
 1. Install dependencies: `npm install`
